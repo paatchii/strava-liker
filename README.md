@@ -23,3 +23,7 @@ run `python strava-liker.py`
 wait for finish
 
 `ctrl + C`
+
+## todo
+
+* exit when finished
